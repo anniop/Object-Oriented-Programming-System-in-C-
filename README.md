@@ -66,7 +66,7 @@ So I built this from scratch, and now I'm sharing it with all of you. 🙌
 
 ## 💬 Feedback or Suggestions?
 
-Open an issue or drop me a message on [LinkedIn](https://www.linkedin.com/in/yourprofile). I’m always happy to improve the content and help others!
+Open an issue or drop me a message on [LinkedIn](https://www.linkedin.com/in/aniket-mogal). I’m always happy to improve the content and help others!
 
 ---
 
