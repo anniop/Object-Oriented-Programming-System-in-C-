@@ -22,10 +22,9 @@ They are super detailed, well-structured, and focused specifically on **C++ with
 | 10        | Virtual Functions and V-Table         |
 | 11        | Abstract Classes & Interfaces         |
 | 12        | Pure Virtual Functions                |
-| 13        | Destructors & Virtual Destructors     |
-| 14        | Real-Life OOP Project (Ride Sharing App) |
-| 15        | 25 Most Asked Interview Questions     |
-| 16        | 25 Practice Questions (Coding + Theory)|
+| 13        | Destructors & Virtual Destructors     |        
+| 14        | 25 Most Asked Interview Questions     |
+| 15        | 25 Practice Questions (Coding + Theory)|
 
 ---
 
